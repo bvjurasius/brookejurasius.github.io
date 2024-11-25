@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/brooke_image.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/bvjurasius
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/brooke-jurasius/
+    - icon: envelope
+      text: Email
+      href: "bvjurasius@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Brooke Jurasius, a Ph.D. student in the Department of Pathology at Case Western Reserve University, specializing in Immunology. Under the mentorship of Dr. Carey Shive, my research focuses on understanding how inflammation influences aging, particularly in T-regulatory cells, and its implications for autoimmune responses and vaccine efficacy. Outside the lab, I enjoy playing golf, immersing myself in the beauty of classical piano music—Beethoven being my favorite composer—and spending time with my beloved cat.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+

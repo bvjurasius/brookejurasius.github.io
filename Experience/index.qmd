@@ -1,0 +1,24 @@
+---
+title: "Education and Research Experience"
+---
+
+**Education and Research Background**  
+I hold a Bachelor of Science in Biology from Santa Clara University (2023) and am currently pursuing a Ph.D. in Pathology with a focus on Immunology at Case Western Reserve University. My research under Dr. Carey Shive investigates how inflammation impacts aging in T-regulatory cells, with implications for autoimmune responses and vaccine efficacy.
+
+**Research and Laboratory Experience**  
+In the Carey Shive Lab, I process peripheral blood mononuclear cells (PBMCs) and have gained expertise in flow cytometry. One of my projects involves stimulating cells with IL-7 and inflammatory cytokines such as IL-6, IL-1β, and TNF to study their effects on the regulation of homeostatic cytokine receptors. Since IL-7 is known to downregulate CD127, which initiates a signaling cascade that promotes T cell proliferation, survival, and differentiation, we aimed to determine whether other cytokines similarly downregulate CD127.
+
+As a Process Development Intern at Pivot Bio, I validated primers for *Bradyrhizobium* bacterial strains, conducted qPCR experiments, and analyzed bacterial enumeration using qPCR and viable count methods. At Applied Molecular Transport, I performed ELISA and qPCR to study the IL-22 pathway, developed a new drug proposal, and analyzed clinical datasets.
+
+During my time as a Research Assistant at Jasper Ridge Biological Preserve, I designed and refined protocols for DNA extraction and PCR testing from bird feather samples, conducting bioinformatics analyses to support conservation genetics. This diverse experience has equipped me with a robust background in molecular biology and data analysis, complementing my current research endeavors.
+
+::: {layout-ncol=2}
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
